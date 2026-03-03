@@ -1,0 +1,61 @@
+{
+  "title": "Emerald Scroll",
+  "description": "A lavish theme inspired by the intricate patterns and jewel-toned pigments of ancient Persian illuminated manuscripts, evoking maximal complexity and exquisite detail.",
+  "seedPalette": [
+    "#29508C",
+    "#227F5C",
+    "#CC9F43",
+    "#AA3D4C",
+    "#2AA89D",
+    "#8F5E4E",
+    "#9D3C6A"
+  ],
+  "colorConcepts": [
+    [
+      "lapis",
+      "sky",
+      "cosmos"
+    ],
+    [
+      "emerald",
+      "garden",
+      "vine"
+    ],
+    [
+      "gilding",
+      "saffron",
+      "sun"
+    ],
+    [
+      "ruby",
+      "pomegranate",
+      "motif"
+    ],
+    [
+      "tile",
+      "mosaic",
+      "water"
+    ],
+    [
+      "parchment",
+      "ink",
+      "clay"
+    ],
+    [
+      "rose",
+      "blossom",
+      "silk"
+    ]
+  ],
+  "primary": "213 54% 35%",
+  "background": "220 15% 12%",
+  "accent": "160 10% 15%",
+  "imageStyle": {
+    "complexity": "maximal",
+    "style": "abstract",
+    "detail": "detailed"
+  },
+  "id": "theme-emerald-scroll",
+  "repository": "emerald-scroll",
+  "owner": "morgtom99"
+}
