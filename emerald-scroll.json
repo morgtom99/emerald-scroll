@@ -53,9 +53,12 @@
   "imageStyle": {
     "complexity": "maximal",
     "style": "abstract",
-    "detail": "detailed"
+    "detail": "detailed",
+    "dimension": "flat",
+    "lighting": "soft"
   },
   "id": "theme-emerald-scroll",
   "repository": "emerald-scroll",
-  "owner": "morgtom99"
+  "owner": "morgtom99",
+  "branch": "main"
 }
